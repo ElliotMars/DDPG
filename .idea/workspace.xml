@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1f5a003-b92c-43d1-b2e0-3576fc51c6d1" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PID/Camera_agent.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ddpg-pendulum-v1/ddpg_agent.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ddpg-pendulum-v1/ddpg_train.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2SbIUSdXPSbx3YrE57ul3wogCZK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CameraControlLocal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CameraLocal_agent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CameraLocal_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CameraPart_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Camera_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cameranophase_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kalman_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dingyulin/Documents/DDPG&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\python code\DDPG\DirectControl" />
+      <recent name="E:\python code\DDPG\Kalman" />
+      <recent name="$PROJECT_DIR$/Kalman" />
+      <recent name="$PROJECT_DIR$/PID" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PID" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CameraLocal_train">
+    <configuration name="CameraControlLocal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DDPG" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/localPID/my_env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/localPID/my_env/CameraControlLocal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CameraLocal_agent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DDPG" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/localPID" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/localPID/CameraLocal_agent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CameraLocal_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DDPG" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/localPID" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/localPID/CameraLocal_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Cameranophase_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DDPG" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PIDnophase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PIDnophase/Cameranophase_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DDPG" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CameraLocal_train" />
+        <item itemvalue="Python.CameraLocal_agent" />
+        <item itemvalue="Python.CameraControlLocal" />
+        <item itemvalue="Python.Cameranophase_train" />
+        <item itemvalue="Python.try (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c1f5a003-b92c-43d1-b2e0-3576fc51c6d1" name="更改" comment="" />
+      <created>1689408868997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689408868997</updated>
+      <workItem from="1693222949810" duration="515000" />
+      <workItem from="1694009058494" duration="679000" />
+      <workItem from="1695643650163" duration="6000" />
+      <workItem from="1698619213430" duration="691000" />
+      <workItem from="1698823288043" duration="740000" />
+      <workItem from="1698838700928" duration="6000" />
+      <workItem from="1699017320349" duration="6000" />
+      <workItem from="1699018001515" duration="10000" />
+      <workItem from="1710484963188" duration="769000" />
+      <workItem from="1710485862853" duration="3058000" />
+      <workItem from="1710640940924" duration="3427000" />
+      <workItem from="1710645453649" duration="217000" />
+      <workItem from="1710645675262" duration="461000" />
+      <workItem from="1710646713198" duration="61000" />
+      <workItem from="1710646776912" duration="6464000" />
+      <workItem from="1710836448328" duration="13229000" />
+      <workItem from="1711021888547" duration="5287000" />
+      <workItem from="1711071178783" duration="10059000" />
+      <workItem from="1711090622234" duration="3414000" />
+      <workItem from="1711105401334" duration="3873000" />
+      <workItem from="1711248614757" duration="1443000" />
+      <workItem from="1711250137912" duration="9166000" />
+      <workItem from="1711273880181" duration="228000" />
+      <workItem from="1711285003557" duration="76000" />
+      <workItem from="1711285087344" duration="3847000" />
+      <workItem from="1711327559977" duration="5669000" />
+      <workItem from="1711628187461" duration="102000" />
+      <workItem from="1711628599437" duration="6022000" />
+      <workItem from="1711683461599" duration="2222000" />
+      <workItem from="1711694149903" duration="6604000" />
+      <workItem from="1711768939851" duration="2771000" />
+      <workItem from="1711775907302" duration="14480000" />
+      <workItem from="1711806917346" duration="2617000" />
+      <workItem from="1711958365495" duration="359000" />
+      <workItem from="1711976583829" duration="1668000" />
+      <workItem from="1711978295284" duration="324000" />
+      <workItem from="1711978621691" duration="96000" />
+      <workItem from="1711978761207" duration="265000" />
+      <workItem from="1711979029810" duration="64000" />
+      <workItem from="1711979095363" duration="134000" />
+      <workItem from="1711979231137" duration="96000" />
+      <workItem from="1711979346274" duration="290000" />
+      <workItem from="1711980423243" duration="862000" />
+      <workItem from="1711981308475" duration="4894000" />
+      <workItem from="1711987322506" duration="336000" />
+      <workItem from="1712023701674" duration="4011000" />
+      <workItem from="1712048651331" duration="3631000" />
+      <workItem from="1712109756607" duration="4289000" />
+      <workItem from="1713705514948" duration="1325000" />
+      <workItem from="1713879412965" duration="12000" />
+      <workItem from="1713885607286" duration="810000" />
+      <workItem from="1713890411066" duration="56000" />
+      <workItem from="1713890479836" duration="332000" />
+      <workItem from="1714095178821" duration="10262000" />
+      <workItem from="1714140933702" duration="4915000" />
+      <workItem from="1714194360850" duration="13491000" />
+      <workItem from="1714311456033" duration="5757000" />
+      <workItem from="1714356261345" duration="7891000" />
+      <workItem from="1714440807593" duration="9417000" />
+      <workItem from="1714546870618" duration="5000" />
+      <workItem from="1714547359922" duration="460000" />
+      <workItem from="1714565520924" duration="6724000" />
+      <workItem from="1714618307170" duration="19438000" />
+      <workItem from="1714705852499" duration="1215000" />
+      <workItem from="1714760640194" duration="10417000" />
+      <workItem from="1714802580205" duration="5519000" />
+      <workItem from="1715241690905" duration="3337000" />
+      <workItem from="1715309484116" duration="3321000" />
+      <workItem from="1715322901951" duration="2509000" />
+      <workItem from="1716171438854" duration="4873000" />
+      <workItem from="1716281888748" duration="527000" />
+      <workItem from="1716282770017" duration="3000" />
+      <workItem from="1716307017020" duration="691000" />
+      <workItem from="1716344278373" duration="281000" />
+      <workItem from="1716357359703" duration="1790000" />
+      <workItem from="1716389184711" duration="7349000" />
+      <workItem from="1716654606744" duration="1847000" />
+      <workItem from="1716775863990" duration="4659000" />
+      <workItem from="1716954270589" duration="10000" />
+      <workItem from="1716955139359" duration="3000" />
+      <workItem from="1717137419245" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DDPG$DC_train.coverage" NAME="DC_train Coverage Results" MODIFIED="1714770595640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DirectControl" />
+    <SUITE FILE_PATH="coverage/DDPG$Camera_train.coverage" NAME="Camera_train Coverage Results" MODIFIED="1716172699942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PID" />
+    <SUITE FILE_PATH="coverage/DDPG$try.coverage" NAME="try Coverage Results" MODIFIED="1714803952806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PID" />
+    <SUITE FILE_PATH="coverage/DDPG$Cameranophase_train.coverage" NAME="Cameranophase_train Coverage Results" MODIFIED="1716441839143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PIDnophase" />
+    <SUITE FILE_PATH="coverage/DDPG$simulwithKalman.coverage" NAME="simulwithKalman Coverage Results" MODIFIED="1711027212207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DDPG$ddpg_train.coverage" NAME="ddpg_train Coverage Results" MODIFIED="1711091697946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddpg-pendulum-v1" />
+    <SUITE FILE_PATH="coverage/DDPG$CameraPart_train.coverage" NAME="CameraPart_train Coverage Results" MODIFIED="1716172155199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PID_part" />
+    <SUITE FILE_PATH="coverage/DDPG$Camera_train__1_.coverage" NAME="Camera_train (1) Coverage Results" MODIFIED="1711250181051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PID" />
+    <SUITE FILE_PATH="coverage/DDPG$CameraLocal_agent.coverage" NAME="CameraLocal_agent Coverage Results" MODIFIED="1716806962338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/localPID" />
+    <SUITE FILE_PATH="coverage/DDPG$ddpg_test.coverage" NAME="ddpg_test Coverage Results" MODIFIED="1710646879861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddpg-pendulum-v1" />
+    <SUITE FILE_PATH="coverage/DDPG$Kalman_train.coverage" NAME="Kalman_train Coverage Results" MODIFIED="1715325371941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kalman" />
+    <SUITE FILE_PATH="coverage/DDPG$CameraControlLocal.coverage" NAME="CameraControlLocal Coverage Results" MODIFIED="1716806734146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/localPID/my_env" />
+    <SUITE FILE_PATH="coverage/DDPG$test.coverage" NAME="test Coverage Results" MODIFIED="1711791080638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DDPG$DDPGtest.coverage" NAME="DDPGtest Coverage Results" MODIFIED="1710499542547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DDPG$try__1_.coverage" NAME="try (1) Coverage Results" MODIFIED="1716173469338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DDPG$testEnv.coverage" NAME="testEnv Coverage Results" MODIFIED="1710642313212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DDPG$CameraLocal_train.coverage" NAME="CameraLocal_train Coverage Results" MODIFIED="1716812018525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/localPID" />
+    <SUITE FILE_PATH="coverage/DDPG$simul.coverage" NAME="simul Coverage Results" MODIFIED="1714202075867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DDPG$CameraControl.coverage" NAME="CameraControl Coverage Results" MODIFIED="1714804467528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PID/my_env" />
+  </component>
+</project>

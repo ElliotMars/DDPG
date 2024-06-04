@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@root@connect.westb.seetacloud.com:57830 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@connect.bjb1.seetacloud.com:18893 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.bjb1.seetacloud.com:21884 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.bjb1.seetacloud.com:28051 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.bjb1.seetacloud.com:28051 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.bjb1.seetacloud.com:28051 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.bjb1.seetacloud.com:28051 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:57809 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@oot@connect.westb.seetacloud.com:53650 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@root@connect.westb.seetacloud.com:48733 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@root@connect.westb.seetacloud.com:49106 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@root@connect.westb.seetacloud.com:57830 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DDPG" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
